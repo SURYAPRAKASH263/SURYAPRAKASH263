@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Surya Prakash</h1>
+<h1 align="center"> I'm Surya Prakash</h1>
 <h3 align="center">A passionate in Data Scientist,Data Analyst,ML Engineer</h3>
 
 - Some sort of UI works [https://www.behance.net/suryaprakash55](https://www.behance.net/suryaprakash55)

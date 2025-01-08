@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Surya Prakash</h1>
-<h3 align="center">A passionate in Data Scientist,Data Analyst,ML Engineer</h3>
+<h3 align="center">A passionate in Data Science,Data Analyst,ML Engineering, NLP</h3>
 
 - Some sort of UI works [https://www.behance.net/suryaprakash55](https://www.behance.net/suryaprakash55)
 

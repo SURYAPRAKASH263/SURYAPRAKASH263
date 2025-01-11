@@ -1,5 +1,21 @@
 <h1 align="center"> I'm Surya Prakash</h1>
-<h3 align="center">A passionate in Data Science,Data Analyst,ML Engineering, NLP</h3>
+<h3 align="center">Hi there! I'm an engineer professionaly who loves building intelligent systems that bridge the gap between human intuition and machine learning. 
+ 
+  My work focuses on:
+  
+🌟 Developing cutting-edge AI and machine learning solutions.
+
+
+🎥 Applying computer vision to solve real-world challenges like object detection, image classification, and visual analytics.
+
+🖌️ Crafting user-centric, intuitive interfaces that bring technology to life.
+
+🛠️ Tech Stack: Python, TensorFlow, PyTorch, OpenCV, Scikit-learn, React, Figma, Flask.
+
+💡 Always exploring the intersection of AI and design thinking to create impactful solutions.
+
+<h2>📬 <strong>Let's connect and collaborate on innovative projects!</strong></h2>
+
 
 - Some sort of UI works [https://www.behance.net/suryaprakash55](https://www.behance.net/suryaprakash55)
 

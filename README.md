@@ -10,7 +10,7 @@
 
 🖌️ Crafting user-centric, intuitive interfaces that bring technology to life.
 
-🛠️ Tech Stack: Python, TensorFlow, PyTorch, OpenCV, Scikit-learn,Figma, Flask.
+🛠️ Tech Stack: Python, TensorFlow, PyTorch, OpenCV, Scikit-learn, Figma, Flask.
 
 💡 Always exploring the intersection of AI and design thinking to create impactful solutions.
 

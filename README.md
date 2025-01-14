@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Surya Prakash</h1>
 <h3 align="center">Hi there! I'm an engineer professionaly who loves building intelligent systems that bridge the gap between human intuition and machine learning. 
  
-  My work focuses on:
+  - My work focuses on:
   
 🌟 Developing cutting-edge AI and machine learning solutions.
 
